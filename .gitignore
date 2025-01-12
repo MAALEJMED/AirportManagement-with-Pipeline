@@ -1,0 +1,11 @@
+# Exclure les fichiers spécifiques à Visual Studio
+.vs/
+*.user
+*.suo
+*.vscode/
+# Exclure les répertoires binaires et les fichiers de compilation
+bin/
+obj/
+# Exclure les fichiers temporaires
+*.log
+*.tmp
